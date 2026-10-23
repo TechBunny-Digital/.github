@@ -14,6 +14,3 @@
 
 接手已经在运行的项目，修复问题、升级依赖、增加新功能，也可以长期维护。
 
-## 联系我们
-
-官网：[fatbunnyco.com.au](https://fatbunnyco.com.au)
